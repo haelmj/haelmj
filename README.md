@@ -1,16 +1,27 @@
-### Hi there 👋
+## Hi, I'm Michael 👋
+### A Python Developer and Cyber Security Enthusiast
+- 😄 Pronouns: He/Him
+- 🔭 I just finished working on a webscraper using selenium. I'm currently working on a couple of little projects to boost my portfolio. 
+- 👯 I’m looking to collaborate on projects involving Python, SQL databases, Web development using React, Django.  
+- 🌱 Currently trying to get started on Machine Learning.
+- ⚡ Fun fact: I'm as sporty as I am geeky🤓. I also love nature and music which led me to begin playing the flute.
+
+### Contact Me
+<a href="https://www.linkedin.com/in/michael-a-ndon/">
+ <img align="left" alt="michaelndon | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.youtube.com/channel/UCvNLtlf5cZpBH8JZX7abzKg">
+ <img align="left" alt="Michael J | YouTube" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+</a>
+<a href="https://instagram.com/hael_mj">
+ <img align="left" alt="hael_mj | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
 
 <!--
-**haelmj/haelmj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+
 -->
