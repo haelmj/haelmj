@@ -2,9 +2,10 @@
 ### A Python Developer and Cyber Security Enthusiast
 - 😄 Pronouns: He/Him
 - 🔭 I just finished working on a webscraper using selenium. I'm currently working on a couple of little projects to boost my portfolio. 
-- 👯 I’m looking to collaborate on projects involving Python, SQL databases, Web development using React, Django.  
+- 👯 I’m looking to collaborate on projects involving Python, SQL databases, Web development using React, Django. I also enjoy teaching others to code. 
 - 🌱 Currently trying to get started on Machine Learning.
 - ⚡ Fun fact: I'm as sporty as I am geeky🤓. I also love nature and music which led me to begin playing the flute.
+
 
 ### Contact Me
 <a href="https://www.linkedin.com/in/michael-a-ndon/">
@@ -21,7 +22,7 @@
 
 - 🤔 I’m looking for help with ...
 
-- 📫 How to reach me: ...
+
 
 
 -->
