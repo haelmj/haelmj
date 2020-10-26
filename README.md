@@ -8,7 +8,7 @@
 - ⚡ Fun fact: I'm as **sporty** as I am **geeky**🤓. I also ***love nature and music*** which led me to begin playing the flute.
 
 ### Miscellaneous Info
-- *Let me know if you need some to jump in on workshops or a speaker for a tech event.*
+- *Let me know if you need someone to jump in on workshops or a speaker for a tech event.*
 
 ### Contact Me
 <a href="https://www.linkedin.com/in/michael-a-ndon/">
