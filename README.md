@@ -1,4 +1,4 @@
-## Hi, I'm Michael 👋
+## Hi, I'm Michael 👋🏽
 ### A Python Developer and Cyber Security Enthusiast
 - 😄 Pronouns: He/Him
 - 🔭 I just finished working on a webscraper using selenium. I'm currently working on a couple of little projects to boost my portfolio. 
