@@ -3,12 +3,13 @@
 - 😄 Pronouns: He/Him
 - 🔭 I just finished working on a webscraper using selenium. I'm currently working on a couple of little projects to boost my portfolio. 
 - 🔭 Getting started on **Open Source** contributions
-- 👯 I’m looking to collaborate on projects involving Python, SQL databases, Web development using React, Django. I also enjoy teaching others to code. 
-- 🌱 Currently trying to get started on Machine Learning.
+- 👯 I’m looking to collaborate on projects involving Python, SQL databases, Web development using React, Django.
+- 🤔 I’m looking for help with Open Source contributions and Web Application security.
+- 🌱 Getting started on Machine Learning.
 - ⚡ Fun fact: I'm as **sporty** as I am **geeky**🤓. I also ***love nature and music*** which led me to begin playing the flute.
 
 ### Miscellaneous Info
-- *Let me know if you need someone to jump in on workshops or a speaker for a tech event.*
+- *I'm looking to expand my speaking and teaching abilities. Let me know if you are looking for an Instructor or speaker for a tech event.*
 
 ### Contact Me
 <a href="https://www.linkedin.com/in/michael-a-ndon/">
@@ -23,7 +24,7 @@
 
 <!--
 
-- 🤔 I’m looking for help with ...
+
 
 
 
