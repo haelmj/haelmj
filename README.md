@@ -1,15 +1,15 @@
 ## Hi, I'm Michael 👋🏽
 ### A Python Developer and Cyber Security Enthusiast
 - 😄 Pronouns: He/Him
-- 🔭 I just finished working on a webscraper using selenium. I'm currently working on a couple of little projects to boost my portfolio. 
+- 🔭 I am currently working on projects using React and NodeJS.
 - 🔭 Getting started on **Open Source** contributions
 - 👯 I’m looking to collaborate on projects involving Python, SQL databases, Web development using React, Django.
 - 🤔 I’m looking for help with Open Source contributions and Web Application security.
-- 🌱 Getting started on Machine Learning.
+- 🌱 Soon to dive into Machine Learning.
 - ⚡ Fun fact: I'm as **sporty** as I am **geeky**🤓. I also ***love nature and music*** which led me to begin playing the flute.
 
 ### Miscellaneous Info
-- *I'm looking to expand my speaking and teaching abilities. Let me know if you are looking for an Instructor or speaker for a tech event.*
+- *Contact me if you need Instructor or speaker for a tech event.*
 
 ### Contact Me
 <a href="https://www.linkedin.com/in/michael-a-ndon/">
