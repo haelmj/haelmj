@@ -8,8 +8,12 @@
 - 🌱 Soon to dive into Machine Learning.
 - ⚡ Fun fact: I'm as **sporty** as I am **geeky**🤓. I also ***love nature and music*** which led me to begin playing the flute.
 
-### Miscellaneous Info
-- *Contact me if you need Instructor or speaker for a tech event.*
+### Reach out to me for:
+- *Coding Instructor/Tutor*
+- *Cyber Security talks*
+- *Event Speaking*
+- *Workshop Hosting*
+- *Educational content creation*
 
 ### Contact Me
 <a href="https://www.linkedin.com/in/michael-a-ndon/">
@@ -21,13 +25,16 @@
 <a href="https://instagram.com/hael_mj">
  <img align="left" alt="hael_mj | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-
+<a href="mailto:manj19.mjn@gmail.com">
+ <img align="left" alt="Email" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/>
+</a>
 </br>
 
 ### 🛠 Tools and Languages
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" />
 <img align="left" alt="Typescript" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/typescript.svg" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
