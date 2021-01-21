@@ -1,11 +1,10 @@
 ## Hi, I'm Michael 👋🏽
 ### A Python Developer and Cyber Security Enthusiast
 - 😄 Pronouns: He/Him
-- 🔭 I am currently working on a project using React and NodeJS.
+- 🔭 I am currently working on Machine Learning using Octave and Python.
 - 🔭 Getting started on **Open Source** contributions
 - 👯 I’m looking to collaborate on projects involving Python, SQL databases, Web development using React and Node.
 - 🤔 I’m looking for help with Open Source contributions and Web Application security.
-- 🌱 Soon to dive into Machine Learning.
 - ⚡ Fun fact: I'm as **sporty** as I am **geeky**🤓. I also ***love nature and music*** which led me to begin playing the flute.
 
 ### Reach out to me for:
