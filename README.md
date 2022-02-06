@@ -1,6 +1,6 @@
 ## Hi, I'm Michael 👋🏽
 
-### security DevOps Engineer
+### DevOps Engineer/Security Analyst
 - 😄 Pronouns: He/Him
 - 🔭 I am currently working on mastering AWS and Azure cloud technologies whilst trying to secure them.
 - 🔭 Diving deeper into Application Security
