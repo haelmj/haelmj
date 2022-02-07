@@ -56,6 +56,8 @@
 
 </br>
 
+---
+
 ### GitHub Stats
 [![Michael's Github Stats](https://github-readme-stats.vercel.app/api?username=haelmj&theme=tokyonight&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=haelmj&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
