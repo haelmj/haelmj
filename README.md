@@ -13,8 +13,8 @@
 ### Reach out to me for:
 - *Coding Instructor/Tutor*
 - *Security talks*
-- *Event Speaking*
-- *Workshop Hosting*
+- *Security Consultation*
+- *Workshop Hosting*/*Event Speaking*
 - *Educational content creation*
 
 ### Contact Me
