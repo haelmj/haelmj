@@ -1,20 +1,20 @@
 ## Hi, I'm Michael 👋🏽
 
+![Twitter Follow](https://img.shields.io/twitter/follow/hael_mj?color=%231DA1F2&logo=twitter&style=for-the-badge)
 
-### DevOps Engineer/Security Analyst
-- 😄 Pronouns: He/Him
-- 🔭 I am currently working on mastering AWS and Azure cloud technologies whilst trying to secure them.
-- 🔭 Diving deeper into Application Security
-- 👯 I’m looking to collaborate on projects involving Python, SQL/NoSQL databases,Typescript, MERN stack, Cloud workloads(AWS). 
-- 🤔 I’m looking for help with Open Source contributions and Web Application security.
-- ⚡ Fun fact: I'm as **sporty** as I am **geeky**🤓. I also ***love nature and music*** which led me to begin playing several instruments namely: the flute, the recorder and the violin.
-- 😁 Subscribe To My YouTube Channel for future content updates. I'm currently in the planning phase for it.
+I work as a Security Analyst and Infrastructure Engineer for an ethics advisory firm. I come from a technical background in both Software and Infrastructure Engineering which has seen me wear different hats through out my career as the need arises. 
+
+I love to spend time researching into Security whether that's finding vulnerabilities in software, learning best practices, trying to understand the cause behind certain trends or even just staying up to date with what's happening in the security space.
+
+I also love to support and mentor others who are trying to start their careers in Tech which is why I'm supporting lots of communities in this space. On the top of my list would be the [BlackCodher](https://blackcodher.com/) bootcamp by mentoring students and helping out with the technical planning of each bootcamp.
+
+- ⚡ NewsFlash: I've had a blast recently at creating CTF challenges for conferences. So far I've authored challenges in [Digital Overdose Conference](https://digitaloverdose.tech/home) and [AppSec Village Sandbox](https://www.appsecvillage.com/events/rsac-20220) at the [RSA conference](https://www.rsaconference.com/usa)
+- 🔭 Working on a CTF challenge to submit at the [CTF Tournament](https://twitter.com/AppSec_Village/status/1535247417074925569?s=20&t=x0gmuz3beLwUxyL69W0V9Q) by AppSec Village at [DefCon](https://defcon.org/)
 
 ### Reach out to me for:
-- *Coding Instructor/Tutor*
-- *Security talks*
 - *Security Consultation*
-- *Workshop Hosting*/*Event Speaking*
+- *CTF Challenge Creation*
+- *Workshop Hosting/Event Speaking*
 - *Educational content creation*
 
 ### Contact Me
