@@ -13,8 +13,8 @@ I also love to support and mentor others who are trying to start their careers i
 
 ### Reach out to me for:
 - *Security Consultation*
-- *CTF Challenge Creation*
-- *Workshop Hosting/Event Speaking*
+- *CTF Challenge Authoring*
+- *Public Speaking*
 - *Educational content creation*
 
 ### Contact Me
