@@ -12,7 +12,7 @@ I also love to support and mentor others who are trying to start their careers i
 - 🔭 Studying for AWS Solutions Architect Certification
 
 ### Reach out to me for:
-- *Security Consultation*
+- *Security Analysis*
 - *CTF Challenge Authoring*
 - *Public Speaking*
 - *Educational content creation*
