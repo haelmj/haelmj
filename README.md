@@ -2,7 +2,7 @@
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/hael_mj?color=%231DA1F2&logo=twitter&style=for-the-badge)
 
-I work as a Security Analyst and Infrastructure Engineer for an ethics advisory firm. I come from a technical background in both Software and Infrastructure Engineering which has seen me wear different hats through out my career as the need arises. 
+I am a Security Researcher with a technical background in both Software and Infrastructure Engineering which has seen me wear different hats through out my career as the need arises. 
 
 I love to spend time researching into Security whether that's finding vulnerabilities in software, learning best practices, trying to understand the cause behind certain trends or even just staying up to date with what's happening in the security space.
 
