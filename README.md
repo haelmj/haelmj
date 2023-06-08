@@ -9,10 +9,12 @@ I love to spend time researching into Security whether that's finding vulnerabil
 I also love to support and mentor others who are trying to start their careers in Tech which is why I'm supporting lots of communities in this space. On the top of my list would be the [BlackCodher](https://blackcodher.com/) bootcamp which I support by mentoring students and helping out with the technical planning of each bootcamp.
 
 - ⚡ NewsFlash: I've had a blast recently at creating CTF challenges for conferences. So far I've authored challenges in [Digital Overdose Conference](https://digitaloverdose.tech/home) and [AppSec Village Sandbox](https://www.appsecvillage.com/events/rsac-20220) at the [RSA conference](https://www.rsaconference.com/usa) and [DefCon](https://defcon.org/)
-- 🔭 Studying for AWS Solutions Architect Certification
+- 🔭 Currently researching more on IoCs in Azure Active Directory environments
 
 ### Reach out to me for:
 - *Security Analysis*
+- *Security Engineering*
+- *Security Architecting*
 - *CTF Challenge Authoring*
 - *Public Speaking*
 - *Educational content creation*
